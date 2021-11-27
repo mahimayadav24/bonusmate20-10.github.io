@@ -645,6 +645,15 @@ ol,
     font-family: 'OpenSans__Bold';
 }
 
+.backdrop .red_tr {
+    color: rgba(255, 0, 0, 1);
+}
+
+.backdrop .fa-exclamation-circle {
+    color: rgba(255, 0, 0, 1);
+}
+
+
 .grid__box {
     display: -ms-grid;
     display: grid;
@@ -714,6 +723,7 @@ ol,
     transition: .3s ease-in-out;
     background: #F6D604;
 }
+
 
 .crt__text .btnpr img {
     width: 50px;
